@@ -1,16 +1,16 @@
 [
   {
     "id": "fintech-embedded-banking-hub-reddit-20260915-1",
-    "title": "r/webdev Builders Hub",
+    "title": "r/fintech Financial Technology Hub",
     "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,200,000+ members",
-    "description": "A community dedicated to all things web development, client and server-side architectures, and UI/UX design.",
-    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "category": "Fintech & Banking",
+    "memberCount": "68,000+ members",
+    "description": "Subreddit for financial technology founders, banking-as-a-service (BaaS) architects, payment rails (ACH/SEPA), and open banking APIs.",
+    "joinUrl": "https://www.reddit.com/r/fintech/",
     "tags": [
-      "webdev",
-      "fullstack",
-      "frontend",
+      "fintech",
+      "banking",
+      "payments",
       "reddit"
     ],
     "verified": true,
